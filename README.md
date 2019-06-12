@@ -1,5 +1,7 @@
 # Taller de *deep learning* con redes convolucionales
 
+**Julio Waissman Vilanova**
+
 Este pequeño taller, ofrecido dentro de [sonora:lab](https://www.facebook.com/sonoralaborg/) tiene como objetivo introducir algunas de las nociones más importantes del aprendizaje profundo, así como el uso de las redes neuronales convolucionales para el reconocimiento de imágenes.
 
 
